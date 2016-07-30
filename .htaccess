@@ -1,0 +1,5 @@
+RewriteEngine on
+ Rewriterule ^content/?      \/agustusan/isi.php
+ Rewriterule ^process/?      \/agustusan/aksi.php
+ Rewriterule ^login/?      \/agustusan/core/login_proses.php
+ Rewriterule ^signout/?      \/agustusan/logout.php
